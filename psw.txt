@@ -1,0 +1,12 @@
+dqaojio
+
+
+https://classroom.google.com/c/NTE3NTExODgxMjE1?cjc=dqaojio
+
+
+find element and find eliments are used to find the elements on the web page
+
+find element  ruturn typs is webelement
+find elements return type is list of we elements
+
+assertion is a verification check point
